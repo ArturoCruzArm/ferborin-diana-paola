@@ -16,22 +16,22 @@ Sitio web para los 3 años de Diana Paola Moreno
 - **Lugar:** Salón en el mismo domicilio
 - **Dirección:** Juan Alonso de Torres Pte 3335, San José de las Piletas, 37318 León de los Aldama, Gto.
 
-### Sesión Fotográfica Previa
-- **Fecha:** Por confirmar
-- **Hora:** Por confirmar
-- **Lugar:** Por confirmar
+### Sesión Fotográfica
+- **Fecha:** Viernes 30 de Enero, 2026 (Día del Evento)
+- **Hora:** Antes del ferborín (a confirmar hora específica)
+- **Lugar:** Mismo salón del evento - Juan Alonso de Torres Pte 3335, San José de las Piletas, 37318 León de los Aldama, Gto.
 
 ## 📦 Paquete Contratado
 
 **Paquete #2 de $6,500** incluye:
-- Cobertura por Sesión, misa y fiesta
+- Cobertura por Sesión, ferborín y fiesta
 - 100 fotos del evento impresas en tamaño 5x7 pulgadas
 - 1 película USB editada, musicalizada y titulada
-- 1 videoclip para proyectar en el salón de la sesión previa y fotos del recuerdo
+- 1 videoclip para proyectar en el salón con fotos de Diana y fotos del recuerdo
 - 1 caja impresa para la USB
 - 1 foto ampliada a tamaño 50x60 cm con marco (opcional)
 - 1 caja impresa para las fotografías
-- 1 sesión fotográfica antes del evento o el día del evento
+- 1 sesión fotográfica el día del evento antes del ferborín
 
 ## 💰 Pagos
 
@@ -61,7 +61,7 @@ Sitio web para los 3 años de Diana Paola Moreno
 ### ANTES DEL EVENTO:
 
 1. **No hay fotos ni videos todavía** - Los archivos HTML están preparados pero sin contenido multimedia
-2. **Sesión previa:** Confirmar fecha, hora y lugar
+2. **Sesión fotográfica:** Se realizará el mismo día del evento (30 de enero), antes del ferborín. Diana debe estar completamente arreglada.
 3. **Pago final:** Liquidar $5,500 el 22 de enero de 2026
 4. **Fotos para el video:** Preparar fotos de Diana desde bebé hasta ahora para el videoclip
 
@@ -101,13 +101,13 @@ Para activar la funcionalidad completa del sitio después del evento:
 
 ## 📝 Checklist Pre-Evento
 
-- [ ] Confirmar fecha y lugar de sesión previa
-- [ ] Confirmar vestido para la sesión
-- [ ] Programar cita de peinado y maquillaje
+- [ ] Confirmar vestido para la sesión del día del evento
+- [ ] Programar cita de peinado y maquillaje para el día del evento
 - [ ] Preparar accesorios (zapatos, accesorios para el cabello)
 - [ ] Liquidar saldo final ($5,500) el 22 de enero de 2026
 - [ ] Preparar fotos de bebé a 3 años para el videoclip
-- [ ] Confirmar horario del ferborín
+- [ ] Confirmar horario de llegada para sesión fotográfica antes del ferborín
+- [ ] Confirmar horario del ferborín (5:00 PM)
 - [ ] Coordinar decoración del salón
 - [ ] Designar coordinador del evento
 
